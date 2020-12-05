@@ -11,3 +11,7 @@
 | Java | - |
 | Python | - |
 | PHP | - |
+
+## Stats
+![mweiner01](https://github-readme-stats.vercel.app/api?username=mweiner01&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
+![mweiner01](https://github-readme-stats.vercel.app/api/top-langs/?username=mweiner01&layout=compact&hide_border=true)
