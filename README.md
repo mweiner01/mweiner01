@@ -7,7 +7,7 @@
 
 | Programming Language | Repositories |
 | ------ | ------ |
-| JavaScript | [Life in Village](https://github.com/mweiner01/lifeinvillage_node) |
+| JavaScript | [Life in Village](https://github.com/mweiner01/lifeinvillage_node),[Animelist](https://github.com/mweiner01/animelist) |
 | Java | [Minecraft Wall](https://github.com/mweiner01/minecraft-wall) |
 | Python | - |
 | PHP | - |
