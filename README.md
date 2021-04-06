@@ -8,7 +8,7 @@
 | Programming Language | Repositories |
 | ------ | ------ |
 | JavaScript | [Life in Village](https://github.com/mweiner01/lifeinvillage_node), [Animelist](https://github.com/mweiner01/animelist), [Multi-Timer](https://github.com/mweiner01/multi-timer) |
-| Java | [Minecraft Wall](https://github.com/mweiner01/minecraft-wall) |
+| Java | - |
 | Python | [Kanji Bot](https://github.com/mweiner01/Kanji-Bot) |
 | PHP | - |
 
