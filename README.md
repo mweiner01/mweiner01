@@ -1,6 +1,6 @@
 # Hi there, I am Max 👋
 
-- 🔭 I’m currently working on [Multi-Timer](https://github.com/mweiner01/multi-timer)
+- 🔭 I’m currently working on [Immersion+](https://github.com/mweiner01/multi-timer)
 - 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about anything
