@@ -1,15 +1,15 @@
 # Hi there, I am Max 👋
 
-- 🔭 I’m currently working on [Immersion+](https://github.com/mweiner01/multi-timer)
-- 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🔭 I’m currently working on [Immersion+]
+- 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Vue.js](https://vuejs.org/)
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about anything
 
 | Programming Language | Repositories |
 | ------ | ------ |
-| JavaScript | [Life in Village](https://github.com/mweiner01/lifeinvillage_node), [Animelist](https://github.com/mweiner01/animelist), [Multi-Timer](https://github.com/mweiner01/multi-timer) |
+| JavaScript | All Private (for now) |
 | Java | - |
-| Python | [Kanji Bot](https://github.com/mweiner01/Kanji-Bot) |
+| Python | All Private (for now) |
 | PHP | - |
 
 ## Stats
