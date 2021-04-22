@@ -1,6 +1,6 @@
 # Hi there, I am Max 👋
 
-- 🔭 I’m currently working on [Immersion+]
+- 🔭 I’m currently working on [Immersion Hub](https://github.com/mweiner01/immersion-hub)
 - 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Vue.js](https://vuejs.org/)
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about anything
