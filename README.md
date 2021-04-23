@@ -7,7 +7,7 @@
 
 | Programming Language | Repositories |
 | ------ | ------ |
-| JavaScript | All Private (for now) |
+| JavaScript | [Immersion Hub](https://github.com/mweiner01/immersion-hub) |
 | Java | - |
 | Python | All Private (for now) |
 | PHP | - |
