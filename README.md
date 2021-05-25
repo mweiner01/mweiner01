@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [Immersion Plus](https://github.com/mweiner01/immersion-plus)
 - 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Vue.js](https://vuejs.org/)
 - 🤔 I’m looking for help with JavaScript especially Vue.js
+- 🖥 I use macOS for coding.
 - 💬 Ask me about anything
 
 | Programming Language | Repositories |
