@@ -1,13 +1,13 @@
 # Hi there, I am Max 👋
 
-- 🔭 I’m currently working on [Immersion Hub](https://github.com/mweiner01/immersion-hub)
+- 🔭 I’m currently working on [Immersion Plus](https://github.com/mweiner01/immersion-plus)
 - 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Vue.js](https://vuejs.org/)
-- 🤔 I’m looking for help with JavaScript
+- 🤔 I’m looking for help with JavaScript especially Vue.js
 - 💬 Ask me about anything
 
 | Programming Language | Repositories |
 | ------ | ------ |
-| JavaScript | [Immersion Hub](https://github.com/mweiner01/immersion-hub) |
+| JavaScript | [Immersion Plus](https://github.com/mweiner01/immersion-plus) |
 | Java | - |
 | Python | All Private (for now) |
 | PHP | - |
